@@ -76,7 +76,7 @@ const Navbar = () => {
             type="submit"
             >
                <Link  to="/sign-up" className="nav-link">
-               Sign Up
+               Register
              </Link>
           </button>
             </div>
