@@ -84,14 +84,14 @@ const Login = () => {
               Login
             </button>
             <hr />
-            <div className="text-center my-2 mx-2">
+            <div className="mt-4 text-center my-2 mx-2">
               <p className="d-flex align-items-center justify-content-center">
-                Not a Member ?
+                Not a member ?
                 <Link className="text-decoration-none" to="/sign-up">
                   <div className="mx-2 fw-bold">Register</div>
                 </Link>
               </p>
-              <div className="mt-4 social-icons d-flex justify-content-center gap-5  ">
+              <div className="mt-5 social-icons d-flex justify-content-center gap-4  ">
                 <div
                   className="social-icons-item facebook"
                   role="button"
